@@ -4,7 +4,7 @@
 
 The "path" list is stored as a string, so the traditional way of editing it is through a small, single-row text input field, like this:
 
-![Screenshot of PathEditor](Screenshots/stock-edit-window.jpg)
+![Screenshot of PathEditor](Screenshots/stock-edit-window.png)
 
 Within the string it still a list.  This program edits it as a list, like this:
 
